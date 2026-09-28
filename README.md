@@ -1,6 +1,10 @@
 # Projeto Asylum
 
-Projeto experimental em Python e AutoHotkey para investigar automação de gameplay em *Batman: Arkham* no PS5, usando o PS Remote Play.
+Status: Em hiato ⏸️
+
+O desenvolvimento do Projeto Asylum está temporariamente pausado. O projeto poderá ser retomado futuramente, a partir dos testes e protótipos já desenvolvidos.
+
+Projeto experimental em Python e AutoHotkey para investigar automação de gameplay em Batman: Arkham no PS5, usando o PS Remote Play.
 
 ## Objetivo
 
